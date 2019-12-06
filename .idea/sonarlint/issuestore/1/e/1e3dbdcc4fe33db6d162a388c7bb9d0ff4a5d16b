@@ -1,8 +1,8 @@
 
-Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(ÌÅï±üÿÿÿÿ8û²í-
-V
-squid:S106)"9Replace this use of System.out or System.err by a logger.(áã‰‘8û²í-
-Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(ÅÌ«ûÿÿÿÿ8û²í-
-V
-squid:S106 "9Replace this use of System.out or System.err by a logger.(ÀÕªµ8‚×‘µí-
 wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß’Š•øÿÿÿÿ
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(áã‰‘8û²í-
+Fsquid:S2140")Use "java.util.Random.nextInt()" instead.(ë°­S8û²í-
+Lsquid:S2140")Use "java.util.Random.nextInt()" instead.(ìô¸¬ÿÿÿÿÿ8û²í-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÀÕªµ8‚×‘µí-
